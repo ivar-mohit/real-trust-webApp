@@ -71,6 +71,6 @@ npm run dev
 - 🧪 Test coverage
 
 ### 🤝 Credits
-Made with 💙 by Mohit Maravi as part of the Flipr Placement Task
+Made with 💙 by Mohit Maravi
 Built using modern fullstack tools and best practices.
 
