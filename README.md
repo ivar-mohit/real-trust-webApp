@@ -95,17 +95,3 @@ Backend	https://real-trust-backend.onrender.com
 🤝 Credits
 Made with 💙 by Mohit Maravi as part of the Flipr Placement Task
 Built using modern fullstack tools and best practices.
-
-
----
-
-### ✅ To Add to GitHub:
-
-1. Save this as `README.md` inside your project root folder.
-2. Push to GitHub:
-
-```bash
-git add README.md
-git commit -m "Add project README"
-git push
-
