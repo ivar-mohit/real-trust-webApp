@@ -44,4 +44,33 @@ It includes a responsive landing page, admin dashboard, image cropping, and live
 ```bash
 git clone https://github.com/YOUR_USERNAME/real-trust-web-app.git
 cd real-trust-web-app
+```
+
+### 2️⃣ Setup Backend (Express)
+```bash
+cd server
+npm install
+# Add your Mongo URI in .env
+npm run dev
+```
+
+### 3️⃣ Setup Frontend (Next.js)
+```bash
+cd client
+npm install
+npm run dev
+```
+
+### ✨ Future Improvements
+- 🔐 JWT/NextAuth admin login
+
+- 🖼️ Drag & drop + cropping preview
+
+- 🔎 Search/filter in admin
+
+- 🧪 Test coverage
+
+### 🤝 Credits
+Made with 💙 by Mohit Maravi as part of the Flipr Placement Task
+Built using modern fullstack tools and best practices.
 
